@@ -14,5 +14,4 @@
 ![image](https://user-images.githubusercontent.com/84634405/195653564-a0eeda04-302b-4daa-abca-3bb210bd4bd4.png)
 
 ## solve the problem
-![image](https://user-images.githubusercontent.com/84634405/195653582-28de27f8-0188-4895-aaf7-63d6dcfc0206.png)
 
